@@ -1,0 +1,6 @@
+<div class="search-box">
+                <input type="text" class="search-txt" placeholder="Search">
+                <a href="ecommerce.html" class="search-btn">
+                    <i class="bx bx-search"></i>
+                </a>
+            </div>
